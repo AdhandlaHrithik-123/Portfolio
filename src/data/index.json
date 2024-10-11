@@ -1,0 +1,51 @@
+{
+  "skills": [
+    {
+      
+      "src": "./img/product-chain-1.png",
+      "title": "The Core Three",
+      "description": "HTML5,CSS3,JAVASCRIPT"
+    },
+    {
+      
+      "src": "./img/tag-1.png",
+      "title": "REACT",
+      "description": "REACT, MATERIAL UI,STATE MANAGEMENT TOOLS(REDUX,REDUX TOOLKIT),TESTING USING JEST"
+    },
+    {
+      
+      "src": "./img/feather-pen-2.png",
+      "title": "CSS FRAMEWORKS AND PREPROCESSORS",
+      "description": "TAILWIND CSS , BOOTSTRAP, SASS, LESS"
+    },
+    {
+      
+      "src": "./img/feather-pen-1.png",
+      "title": "The Responsive Web: Building for Every Device, Every User, Every Browser",
+      "description": "Responsive Design, Cross-Browser Compatibility, Web Performance Optimization,Version Control(Git)"
+    }
+  ],
+  "portfolio": [
+    {
+      
+      "src": "./img/placeholder-img-1.png",
+      "title": "Homescreen-Hungry",
+      "description": "Homescreen-Hungry is a fully responsive Restaurent Landing Page built using HTML,CSS and JS"
+      
+    }
+  ],
+  "workexperience": [
+    {
+      
+      "description": "Worked as UI Implementation Engineer(REACTJS) at ENEA AB during March-2023 to December-2023.Developed entire Front-end part for an E-commerce site using HTML,CSS,TAILWIND CSS and REACT,REDUX.Worked and learned alot of concepts in REACT like Writing Custom Hooks and managing state in React using REDUX. ",
+      "Company_title": "Company Name:",
+      "Company_name": "ENEA AB"
+    },
+    {
+      
+      "description": "Worked as FrontEndDeveloper Intern at InternPE during December-2023 to May-2024.Built a Landing page for a University using HTML,CSS Bootstrap and Vainilla Javascript.",
+      "Company_title": "Company Name",
+      "Company_name": "InternPE"
+    }
+  ]
+}
